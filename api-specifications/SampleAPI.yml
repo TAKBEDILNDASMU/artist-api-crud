@@ -1,0 +1,282 @@
+openapi: 3.0.0
+info:
+  title: Simple Artist API
+  version: 1.0.0
+  description: A simple API to illustrate OpenAPI concepts
+
+servers:
+  - url: http://localhost:8000
+
+components:
+  schemas:
+    Artist:
+      type: object
+      required:
+        - username
+      properties:
+        artist_name:
+          type: string
+          example: John 'The Programmer' Doe
+        artist_genre:
+          type: string
+          example: Programming
+        album_recorded:
+          type: number
+          example: 20
+        username:
+          type: string
+          example: John Doe
+
+paths:
+  /artists:
+    get:
+      description: Returns a list of artists
+      parameters:
+        - name: limit
+          in: query
+          description: Limits the number of items on a page
+          schema:
+            type: integer
+        - name: offset
+          in: query
+          description: Specifies the page number of the artists to be displayed
+          schema:
+            type: integer
+      responses:
+        "200":
+          description: Successfully returned a list of artist
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/Artist"
+        "400":
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                    example: Artist is not found
+
+    post:
+      description: Lets a user post a new artist
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: "#/components/schemas/Artist"
+
+      responses:
+        "200":
+          description: successfully created a new artist
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: object
+                    properties:
+                      artist_name:
+                        type: string
+                        example: Kang Dea
+                      artist_genre:
+                        type: string
+                        example: metal
+                      albums_recorded:
+                        type: integer
+                        example: 20
+
+        "400":
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  errors:
+                    type: string
+                    example: album_recorded is not valid format
+
+  /artists/page/{page}:
+    get:
+      description: Return list of artist with pagination
+      parameters:
+        - name: page
+          in: path
+          required: true
+          schema:
+            type: number
+        - name: limit
+          in: query
+          required: false
+          schema:
+            type: number
+      responses:
+        "200":
+          description: Successfully returned list of artist with paging
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: array
+                    items:
+                      $ref: "#/components/schemas/Artist"
+                  paging:
+                    type: object
+                    properties:
+                      page:
+                        type: number
+                        example: 1
+                      total_page:
+                        type: number
+                        example: 10
+                      total_item:
+                        type: number
+                        example: 50
+                      item_per_page:
+                        type: number
+                        example: 5
+        "400":
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: object
+                    properties:
+                      errors:
+                        type: string
+                        example: Limit cannot be negative number
+
+  /artists/{username}:
+    get:
+      description: Obtain information about an artist from his or her unique username
+      parameters:
+        - name: username
+          in: path
+          required: true
+          schema:
+            type: string
+      responses:
+        "200":
+          description: Successfully returned an artist
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: object
+                    properties:
+                      artist_name:
+                        type: string
+                        example: Kang Dea
+                      artist_genre:
+                        type: string
+                        example: metal
+                      albums_recorded:
+                        type: integer
+                        example: 20
+
+        "400":
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+                    example: Invalid Request from client
+
+    patch:
+      description: Update to a new value to particular record
+      parameters:
+        - name: username
+          in: path
+          schema:
+            type: string
+          required: true
+
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              type: object
+              required:
+                - artist_name
+              properties:
+                artist_name:
+                  type: string
+                  example: Johnny Sins
+
+      responses:
+        "200":
+          description: Successfully updated an artist
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: object
+                    properties:
+                      artist_name:
+                        type: string
+                        example: Johnny Sins
+
+        "404":
+          description: Username isn't exist in database
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  errors:
+                    type: string
+                    example: Username is not found
+
+    delete:
+      description: Delete one artist
+      parameters:
+        - name: username
+          in: path
+          schema:
+            type: string
+          required: true
+
+      responses:
+        "200":
+          description: Successfully delete an artist
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  data:
+                    type: string
+                    example: OK
+        "404":
+          description: Username isn't exist in database
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  errors:
+                    type: string
+                    example: Username is not found

@@ -1,0 +1,282 @@
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":{"_connection":null,"_events":{},"_eventsCount":0,"_executeOptions":{"sql":"SELECT * FROM artists"},"_fieldCount":0,"_fields":[],"_localStream":null,"_result":[],"_resultIndex":0,"_rowParser":null,"_rows":[],"insertId":0,"next":null,"queryTimeout":null,"sql":"SELECT * FROM artists"}}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":{"_connection":null,"_events":{},"_eventsCount":0,"_executeOptions":{"sql":"SELECT * FROM artists"},"_fieldCount":0,"_fields":[],"_localStream":null,"_result":[],"_resultIndex":0,"_rowParser":null,"_rows":[],"insertId":0,"next":null,"queryTimeout":null,"sql":"SELECT * FROM artists"}}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":{"_connection":null,"_events":{},"_eventsCount":0,"_executeOptions":{"sql":"SELECT * FROM artists"},"_fieldCount":0,"_fields":[],"_localStream":null,"_result":[],"_resultIndex":0,"_rowParser":null,"_rows":[],"insertId":0,"next":null,"queryTimeout":null,"sql":"SELECT * FROM artists"}}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":{"_connection":null,"_events":{},"_eventsCount":0,"_executeOptions":{"sql":"SELECT * FROM artists"},"_fieldCount":0,"_fields":[],"_localStream":null,"_result":[],"_resultIndex":0,"_rowParser":null,"_rows":[],"insertId":0,"next":null,"queryTimeout":null,"sql":"SELECT * FROM artists"}}
+{"level":"info","message":"Database Connected"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Database Connected"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"MySQL Connected"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"MySQL Connected"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"MySQL Connected"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"MySQL Connected"}
+{"level":"info","message":{"_connection":{"_command":"[Circular]","_commands":{"_capacityMask":3,"_head":0,"_list":[null,null,null,null],"_tail":0},"_events":{},"_eventsCount":1,"_fatalError":null,"_handshakePacket":{"autPluginName":"caching_sha2_password","authPluginData1":{"data":[25,3,110,87,39,35,27,57],"type":"Buffer"},"authPluginData2":{"data":[50,10,8,14,64,55,57,89,1,17,91,25,0],"type":"Buffer"},"capabilityFlags":3758096383,"characterSet":255,"connectionId":31,"protocolVersion":10,"serverVersion":"8.0.36","statusFlags":2},"_internalId":0,"_outOfOrderPackets":[],"_paused":false,"_paused_packets":{"_capacityMask":3,"_head":0,"_list":[null,null,null,null],"_tail":0},"_protocolError":null,"_statements":{"allowStale":false,"allowStaleOnFetchAbort":false,"allowStaleOnFetchRejection":false,"ignoreFetchAbort":false,"maxEntrySize":0,"noDeleteOnFetchRejection":false,"noDeleteOnStaleGet":false,"noDisposeOnSet":false,"noUpdateTTL":false,"ttl":0,"ttlAutopurge":false,"ttlResolution":1,"updateAgeOnGet":false,"updateAgeOnHas":false},"authorized":true,"clientEncoding":"utf8","compressedSequenceId":0,"config":{"bigNumberStrings":false,"charsetNumber":224,"clientFlags":12252111,"compress":false,"connectAttributes":{"_client_name":"Node-MySQL-2","_client_version":"3.9.2"},"connectTimeout":60000,"database":"artists","dateStrings":false,"decimalNumbers":false,"enableKeepAlive":true,"host":"127.0.0.1","insecureAuth":false,"keepAliveInitialDelay":0,"maxPacketSize":0,"maxPreparedStatements":16000,"multipleStatements":false,"namedPlaceholders":false,"password":"root","port":3306,"rowsAsArray":false,"ssl":false,"stringifyObjects":false,"supportBigNumbers":false,"timezone":"local","trace":true,"typeCast":true,"user":"root"},"connectTimeout":null,"connectionId":31,"packetParser":{"buffer":[],"bufferLength":0,"firstPacketSequenceId":0,"headerLen":0,"largePacketParts":[],"length":19,"packetHeaderLength":4},"sequenceId":1,"serverCapabilityFlags":3758096383,"serverEncoding":"utf8","stream":{"_closeAfterHandlingError":false,"_events":{"end":[null,null]},"_eventsCount":5,"_hadError":false,"_host":null,"_parent":null,"_pendingData":null,"_pendingEncoding":"","_readableState":{"awaitDrainWriters":null,"buffer":[],"bufferIndex":0,"highWaterMark":16384,"length":0,"pipes":[]},"_server":null,"_sockname":null,"_writableState":{"bufferedIndex":0,"corked":0,"highWaterMark":16384,"length":0,"pendingcb":1,"writelen":0},"allowHalfOpen":false,"connecting":false,"server":null},"threadId":31},"_events":{},"_eventsCount":0,"_fieldCount":0,"_fields":[],"_localStream":null,"_queryOptions":{"rowsAsArray":false,"sql":"SELECT * FROM artists"},"_receivedFieldsCount":0,"_resultIndex":0,"_rowParser":null,"_rows":[],"namedPlaceholders":false,"options":{"bigNumberStrings":false,"charsetNumber":224,"clientFlags":12252111,"compress":false,"connectAttributes":{"_client_name":"Node-MySQL-2","_client_version":"3.9.2"},"connectTimeout":60000,"database":"artists","dateStrings":false,"decimalNumbers":false,"enableKeepAlive":true,"host":"127.0.0.1","insecureAuth":false,"keepAliveInitialDelay":0,"maxPacketSize":0,"maxPreparedStatements":16000,"multipleStatements":false,"namedPlaceholders":false,"password":"root","port":3306,"rowsAsArray":false,"sql":"SELECT * FROM artists","ssl":false,"stringifyObjects":false,"supportBigNumbers":false,"timezone":"local","trace":true,"typeCast":true,"user":"root"},"queryTimeout":null,"sql":"SELECT * FROM artists"}}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"MySQL Connected"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"MySQL Connected"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"MySQL Connected"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"MySQL Connected"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"MySQL Connected"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":{"_connection":null,"_events":{},"_eventsCount":0,"_fieldCount":0,"_fields":[],"_localStream":null,"_queryOptions":{"rowsAsArray":false,"sql":"SELECT * FROM artists"},"_receivedFieldsCount":0,"_resultIndex":0,"_rowParser":null,"_rows":[],"namedPlaceholders":false,"next":null,"queryTimeout":null,"sql":"SELECT * FROM artists"}}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":[[{"album_recorder":20,"artist_genre":"Pop","artist_name":"John Doe","username":"John"}],[{"_buf":{"data":[1,0,0,1,4,59,0,0,2,3,100,101,102,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,8,117,115,101,114,110,97,109,101,8,117,115,101,114,110,97,109,101,12,224,0,200,0,0,0,253,3,80,0,0,0,65,0,0,3,3,100,101,102,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,11,97,114,116,105,115,116,95,110,97,109,101,11,97,114,116,105,115,116,95,110,97,109,101,12,224,0,200,0,0,0,253,0,0,0,0,0,67,0,0,4,3,100,101,102,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,12,97,114,116,105,115,116,95,103,101,110,114,101,12,97,114,116,105,115,116,95,103,101,110,114,101,12,224,0,100,0,0,0,253,0,0,0,0,0,71,0,0,5,3,100,101,102,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,14,97,108,98,117,109,95,114,101,99,111,114,100,101,114,14,97,108,98,117,109,95,114,101,99,111,114,100,101,114,12,63,0,11,0,0,0,3,0,0,0,0,0,5,0,0,6,254,0,0,34,0,21,0,0,7,4,74,111,104,110,8,74,111,104,110,32,68,111,101,3,80,111,112,2,50,48,5,0,0,8,254,0,0,34,0],"type":"Buffer"},"_catalogLength":3,"_catalogStart":10,"_clientEncoding":"utf8","_orgNameLength":8,"_orgNameStart":47,"_orgTableLength":7,"_orgTableStart":30,"_schemaLength":7,"_schemaStart":14,"_tableLength":7,"_tableStart":22,"characterSet":224,"columnLength":200,"columnType":253,"decimals":0,"encoding":"utf8","flags":20483,"name":"username","type":253},{"_buf":{"data":[1,0,0,1,4,59,0,0,2,3,100,101,102,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,8,117,115,101,114,110,97,109,101,8,117,115,101,114,110,97,109,101,12,224,0,200,0,0,0,253,3,80,0,0,0,65,0,0,3,3,100,101,102,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,11,97,114,116,105,115,116,95,110,97,109,101,11,97,114,116,105,115,116,95,110,97,109,101,12,224,0,200,0,0,0,253,0,0,0,0,0,67,0,0,4,3,100,101,102,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,12,97,114,116,105,115,116,95,103,101,110,114,101,12,97,114,116,105,115,116,95,103,101,110,114,101,12,224,0,100,0,0,0,253,0,0,0,0,0,71,0,0,5,3,100,101,102,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,14,97,108,98,117,109,95,114,101,99,111,114,100,101,114,14,97,108,98,117,109,95,114,101,99,111,114,100,101,114,12,63,0,11,0,0,0,3,0,0,0,0,0,5,0,0,6,254,0,0,34,0,21,0,0,7,4,74,111,104,110,8,74,111,104,110,32,68,111,101,3,80,111,112,2,50,48,5,0,0,8,254,0,0,34,0],"type":"Buffer"},"_catalogLength":3,"_catalogStart":73,"_clientEncoding":"utf8","_orgNameLength":11,"_orgNameStart":113,"_orgTableLength":7,"_orgTableStart":93,"_schemaLength":7,"_schemaStart":77,"_tableLength":7,"_tableStart":85,"characterSet":224,"columnLength":200,"columnType":253,"decimals":0,"encoding":"utf8","flags":0,"name":"artist_name","type":253},{"_buf":{"data":[1,0,0,1,4,59,0,0,2,3,100,101,102,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,8,117,115,101,114,110,97,109,101,8,117,115,101,114,110,97,109,101,12,224,0,200,0,0,0,253,3,80,0,0,0,65,0,0,3,3,100,101,102,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,11,97,114,116,105,115,116,95,110,97,109,101,11,97,114,116,105,115,116,95,110,97,109,101,12,224,0,200,0,0,0,253,0,0,0,0,0,67,0,0,4,3,100,101,102,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,12,97,114,116,105,115,116,95,103,101,110,114,101,12,97,114,116,105,115,116,95,103,101,110,114,101,12,224,0,100,0,0,0,253,0,0,0,0,0,71,0,0,5,3,100,101,102,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,14,97,108,98,117,109,95,114,101,99,111,114,100,101,114,14,97,108,98,117,109,95,114,101,99,111,114,100,101,114,12,63,0,11,0,0,0,3,0,0,0,0,0,5,0,0,6,254,0,0,34,0,21,0,0,7,4,74,111,104,110,8,74,111,104,110,32,68,111,101,3,80,111,112,2,50,48,5,0,0,8,254,0,0,34,0],"type":"Buffer"},"_catalogLength":3,"_catalogStart":142,"_clientEncoding":"utf8","_orgNameLength":12,"_orgNameStart":183,"_orgTableLength":7,"_orgTableStart":162,"_schemaLength":7,"_schemaStart":146,"_tableLength":7,"_tableStart":154,"characterSet":224,"columnLength":100,"columnType":253,"decimals":0,"encoding":"utf8","flags":0,"name":"artist_genre","type":253},{"_buf":{"data":[1,0,0,1,4,59,0,0,2,3,100,101,102,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,8,117,115,101,114,110,97,109,101,8,117,115,101,114,110,97,109,101,12,224,0,200,0,0,0,253,3,80,0,0,0,65,0,0,3,3,100,101,102,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,11,97,114,116,105,115,116,95,110,97,109,101,11,97,114,116,105,115,116,95,110,97,109,101,12,224,0,200,0,0,0,253,0,0,0,0,0,67,0,0,4,3,100,101,102,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,12,97,114,116,105,115,116,95,103,101,110,114,101,12,97,114,116,105,115,116,95,103,101,110,114,101,12,224,0,100,0,0,0,253,0,0,0,0,0,71,0,0,5,3,100,101,102,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,7,97,114,116,105,115,116,115,14,97,108,98,117,109,95,114,101,99,111,114,100,101,114,14,97,108,98,117,109,95,114,101,99,111,114,100,101,114,12,63,0,11,0,0,0,3,0,0,0,0,0,5,0,0,6,254,0,0,34,0,21,0,0,7,4,74,111,104,110,8,74,111,104,110,32,68,111,101,3,80,111,112,2,50,48,5,0,0,8,254,0,0,34,0],"type":"Buffer"},"_catalogLength":3,"_catalogStart":213,"_clientEncoding":"utf8","_orgNameLength":14,"_orgNameStart":256,"_orgTableLength":7,"_orgTableStart":233,"_schemaLength":7,"_schemaStart":217,"_tableLength":7,"_tableStart":225,"characterSet":63,"columnLength":11,"columnType":3,"decimals":0,"encoding":"binary","flags":0,"name":"album_recorder","type":3}]]}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":[{"album_recorder":20,"artist_genre":"Pop","artist_name":"John Doe","username":"John"}]}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"warn","message":"Access denied for user 'roo'@'localhost' (using password: YES)"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"code":"ER_ACCESS_DENIED_ERROR","errno":1045,"level":"warn","message":"Access denied for user 'roo'@'localhost' (using password: YES)","sqlMessage":"Access denied for user 'roo'@'localhost' (using password: YES)","sqlState":"28000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"code":"ER_PARSE_ERROR","errno":1064,"level":"warn","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OFFSET ? \n    LIMIT ?' at line 3","sql":"\n    SELECT * FROM artists \n    ORDER BY artist_name \n    OFFSET ? \n    LIMIT ?","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OFFSET ? \n    LIMIT ?' at line 3","sqlState":"42000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"warn"}
+{"level":"warn"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"warn"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"code":"ER_PARSE_ERROR","errno":1064,"level":"warn","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OFFSET ? \n    LIMIT ?' at line 3","sql":"\n    SELECT * FROM artists \n    ORDER BY artist_name \n    OFFSET ? \n    LIMIT ?","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OFFSET ? \n    LIMIT ?' at line 3","sqlState":"42000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"code":"ER_PARSE_ERROR","errno":1064,"level":"warn","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OFFSET ? \n    LIMIT ?' at line 3","sql":"\n    SELECT * FROM artists \n    ORDER BY artist_name \n    OFFSET ? \n    LIMIT ?","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OFFSET ? \n    LIMIT ?' at line 3","sqlState":"42000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"code":"ER_PARSE_ERROR","errno":1064,"level":"warn","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OFFSET ? \n    LIMIT ?' at line 3","sql":"\n    SELECT * FROM artists \n    ORDER BY artist_name \n    OFFSET ? \n    LIMIT ?","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'OFFSET ? \n    LIMIT ?' at line 3","sqlState":"42000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"code":"ER_PARSE_ERROR","errno":1064,"level":"warn","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? \n    OFFSET ?' at line 3","sql":"\n    SELECT * FROM artists \n    ORDER BY artist_name \n    LIMIT ? \n    OFFSET ?","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? \n    OFFSET ?' at line 3","sqlState":"42000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"code":"ER_PARSE_ERROR","errno":1064,"level":"warn","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? \n    OFFSET ?' at line 3","sql":"\n    SELECT * FROM artists \n    ORDER BY artist_name \n    LIMIT ? \n    OFFSET ?","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? \n    OFFSET ?' at line 3","sqlState":"42000"}
+{"code":"ER_PARSE_ERROR","errno":1064,"level":"warn","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? \n    OFFSET ?' at line 3","sql":"\n    SELECT * FROM artists \n    ORDER BY artist_name \n    LIMIT ? \n    OFFSET ?","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? \n    OFFSET ?' at line 3","sqlState":"42000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"code":"ER_PARSE_ERROR","errno":1064,"level":"warn","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET ?' at line 3","sql":"\n    SELECT * FROM artists \n    ORDER BY artist_name \n    LIMIT ? OFFSET ?","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET ?' at line 3","sqlState":"42000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"code":"ER_PARSE_ERROR","errno":1064,"level":"warn","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET ?' at line 3","sql":"\n    SELECT * FROM artists \n    ORDER BY artist_name \n    LIMIT ? OFFSET ?","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET ?' at line 3","sqlState":"42000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"code":"ER_PARSE_ERROR","errno":1064,"level":"warn","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET ?' at line 3","sql":"\n    SELECT * FROM artists \n    ORDER BY artist_name \n    LIMIT ? OFFSET ?","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET ?' at line 3","sqlState":"42000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"warn"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"warn"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"warn"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"warn"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"code":"ER_PARSE_ERROR","errno":1064,"level":"warn","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET ?' at line 3","sql":"\n    SELECT * FROM artists \n    ORDER BY artist_name \n    LIMIT ? OFFSET ?","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET ?' at line 3","sqlState":"42000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"code":"ER_PARSE_ERROR","errno":1064,"level":"warn","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET ?' at line 3","sql":"\n    SELECT * FROM artists \n    ORDER BY artist_name \n    LIMIT ? OFFSET ?","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET ?' at line 3","sqlState":"42000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"code":"ER_PARSE_ERROR","errno":1064,"level":"warn","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET ?' at line 3","sql":"\n    SELECT * FROM artists \n    ORDER BY artist_name \n    LIMIT ? OFFSET ?","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET ?' at line 3","sqlState":"42000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"code":"ER_PARSE_ERROR","errno":1064,"level":"warn","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET ?' at line 3","sql":"\n    SELECT * FROM artists \n    ORDER BY artist_name \n    LIMIT ? OFFSET ?","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET ?' at line 3","sqlState":"42000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"code":"ER_PARSE_ERROR","errno":1064,"level":"warn","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET 3' at line 3","sql":"\n    SELECT * FROM artists \n    ORDER BY artist_name \n    LIMIT ? OFFSET 3","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET 3' at line 3","sqlState":"42000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"code":"ER_PARSE_ERROR","errno":1064,"level":"warn","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET 3' at line 3","sql":"\n    SELECT * FROM artists \n    ORDER BY artist_name \n    LIMIT ? OFFSET 3","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET 3' at line 3","sqlState":"42000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"code":"ER_PARSE_ERROR","errno":1064,"level":"warn","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET ?' at line 1","sql":"SELECT * FROM artists ORDER BY artist_name LIMIT ? OFFSET ?","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET ?' at line 1","sqlState":"42000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"code":"ER_PARSE_ERROR","errno":1064,"level":"warn","message":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET ?' at line 1","sql":"SELECT * FROM artists ORDER BY artist_name LIMIT ? OFFSET ?","sqlMessage":"You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '? OFFSET ?' at line 1","sqlState":"42000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":{"header":{"connection":"close","content-length":"145","content-security-policy":"default-src 'none'","content-type":"text/html; charset=utf-8","date":"Sun, 03 Mar 2024 08:52:45 GMT","x-content-type-options":"nosniff","x-powered-by":"Express"},"req":{"headers":{},"method":"GET","url":"http://127.0.0.1:60325/artist"},"status":404,"text":"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /artist</pre>\n</body>\n</html>\n"}}
+{"level":"info","message":{"header":{"connection":"close","content-length":"27","content-type":"application/json; charset=utf-8","date":"Sun, 03 Mar 2024 08:58:44 GMT","etag":"W/\"1b-q53/r1aWTpzzq9ZWYxI4i6LU6qs\"","x-powered-by":"Express"},"req":{"headers":{},"method":"GET","url":"http://127.0.0.1:60393/artist"},"status":200,"text":"{\"errors\":\"Page not found\"}"}}
+{"level":"info","message":{"header":{"connection":"close","content-length":"27","content-type":"application/json; charset=utf-8","date":"Sun, 03 Mar 2024 08:59:07 GMT","etag":"W/\"1b-q53/r1aWTpzzq9ZWYxI4i6LU6qs\"","x-powered-by":"Express"},"req":{"headers":{},"method":"GET","url":"http://127.0.0.1:60397/artist"},"status":404,"text":"{\"errors\":\"Page not found\"}"}}
+{"level":"info","message":{"header":{"connection":"close","content-length":"27","content-type":"application/json; charset=utf-8","date":"Sun, 03 Mar 2024 09:02:11 GMT","etag":"W/\"1b-q53/r1aWTpzzq9ZWYxI4i6LU6qs\"","x-powered-by":"Express"},"req":{"headers":{},"method":"GET","url":"http://127.0.0.1:60415/artist"},"status":404,"text":"{\"errors\":\"Page not found\"}"}}
+{"level":"info","message":{"header":{"connection":"close","content-length":"27","content-type":"application/json; charset=utf-8","date":"Sun, 03 Mar 2024 09:02:56 GMT","etag":"W/\"1b-q53/r1aWTpzzq9ZWYxI4i6LU6qs\"","x-powered-by":"Express"},"req":{"headers":{},"method":"GET","url":"http://127.0.0.1:60426/artist"},"status":404,"text":"{\"errors\":\"Page not found\"}"}}
+{"level":"info","message":{"header":{"connection":"close","content-length":"27","content-type":"application/json; charset=utf-8","date":"Sun, 03 Mar 2024 09:03:17 GMT","etag":"W/\"1b-q53/r1aWTpzzq9ZWYxI4i6LU6qs\"","x-powered-by":"Express"},"req":{"headers":{},"method":"GET","url":"http://127.0.0.1:60431/artist"},"status":404,"text":"{\"errors\":\"Page not found\"}"}}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":{"header":{"connection":"close","content-length":"27","content-type":"application/json; charset=utf-8","date":"Sun, 03 Mar 2024 09:05:06 GMT","etag":"W/\"1b-q53/r1aWTpzzq9ZWYxI4i6LU6qs\"","x-powered-by":"Express"},"req":{"headers":{},"method":"GET","url":"http://127.0.0.1:60457/artist"},"status":404,"text":"{\"errors\":\"Page not found\"}"}}
+{"level":"info","message":{"header":{"connection":"close","content-length":"27","content-type":"application/json; charset=utf-8","date":"Sun, 03 Mar 2024 09:06:52 GMT","etag":"W/\"1b-q53/r1aWTpzzq9ZWYxI4i6LU6qs\"","x-powered-by":"Express"},"req":{"headers":{},"method":"GET","url":"http://127.0.0.1:60479/artist"},"status":404,"text":"{\"errors\":\"Page not found\"}"}}
+{"level":"info","message":{"header":{"connection":"close","content-length":"27","content-type":"application/json; charset=utf-8","date":"Sun, 03 Mar 2024 09:07:00 GMT","etag":"W/\"1b-q53/r1aWTpzzq9ZWYxI4i6LU6qs\"","x-powered-by":"Express"},"req":{"headers":{},"method":"GET","url":"http://127.0.0.1:60488/artist"},"status":404,"text":"{\"errors\":\"Page not found\"}"}}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"warn"}
+{"level":"info","message":{}}
+{"level":"warn"}
+{"level":"warn"}
+{"level":"info","message":{}}
+{"level":"info"}
+{"level":"info"}
+{"level":"info","message":{"limit":"2","offset":"1"}}
+{"level":"warn"}
+{"level":"warn"}
+{"level":"warn"}
+{"level":"warn"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"warn"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"warn","message":"request is not defined"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"warn","message":"\"totalItem\" is read-only"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":"Server up and running on port 3000"}
+{"level":"info","message":[]}
+{"level":"info"}
+{"level":"info","message":"patrick"}
+{"level":"info","message":false}
+{"level":"info","message":false}
+{"level":"info","message":false}
+{"level":"info","message":false}
+{"level":"info","message":1}
+{"level":"info","message":[{"album_recorded":15,"artist_genre":"Heavy Metal","artist_name":"Patrick Star","username":"Patrick"}]}
+{"level":"info","message":[]}
+{"level":"info","message":false}
+{"level":"info","message":true}
+{"level":"info","message":false}
+{"level":"info","message":{"affectedRows":1,"changedRows":0,"fieldCount":0,"info":"","insertId":0,"serverStatus":2,"warningStatus":0}}
+{"level":"info","message":{"affectedRows":1,"changedRows":0,"fieldCount":0,"info":"","insertId":0,"serverStatus":2,"warningStatus":0}}
